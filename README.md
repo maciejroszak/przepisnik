@@ -19,6 +19,9 @@
 
 ..* Sałatki - snaps.html
     Podstrona zbudowana tak samo jak maindish.html.
+    
+..* Link do aplikacji
+https://maciejroszak.github.io/przepisnik/
 
 
 
