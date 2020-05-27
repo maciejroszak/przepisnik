@@ -1,5 +1,11 @@
+@font-face {
+font-family: Panagolin;
+
+src:url(/fonts/Pangolin-Regular.ttf);
+}
+
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Panagolin', sans-serif;
     background-color: rgb(207, 181, 202);
 }
 /* navigation */
@@ -75,13 +81,12 @@ transition: all .4s;
 .btn-menu {
     background-color: rgb(158, 165, 168);
     border-radius: 20px;
-    width: 350px;
-    height: 350px;
+    height: 95%;
+    width: 100%;
 }
 .btn-menu img{
-    width: 300px;
-    height: 205px;
-    padding: 4px;
+    width: 90%;
+    padding: 2px;
     border-radius: 20px;
 }
 .btn-menu:hover {
