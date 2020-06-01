@@ -1,7 +1,7 @@
-/*@font-face {
+@font-face {
 font-family: Panagolin;
-src: url(/fonts/Pangolin-Regular.ttf);
-}*/
+src: url(./fonts/Pangolin-Regular.ttf);
+}
 
 body {
     font-family: 'Pangolin', cursive;
