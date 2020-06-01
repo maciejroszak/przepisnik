@@ -1,11 +1,10 @@
-@font-face {
+/*@font-face {
 font-family: Panagolin;
-src: url(./fonts/Pangolin-Regular.ttf);
-src: url(https://fonts.googleapis.com/css2?family=Pangolin&display=swap);
-}
+src: url(/fonts/Pangolin-Regular.ttf);
+}*/
 
 body {
-    font-family: 'Panagolin', sans-serif;
+    font-family: 'Pangolin', cursive;
     background-color: rgb(207, 181, 202);
 }
 /* navigation */
